@@ -2,7 +2,7 @@
 
 2. Откройте его в AntConc, посмотрите самые частотные слова.
 
-[Image alt](https://github.com/AnastasiiaChernova/HW3/blob/master/task%202.png)
+[Image alt][ScreenShot](https://github.com/AnastasiiaChernova/HW3/blob/master/task%202.png)
 
 3. Добавьте список стоп-слов, повторите операцию.
 
