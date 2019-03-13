@@ -23,3 +23,6 @@ b) ![task 5.2](https://github.com/AnastasiiaChernova/HW3/blob/master/task%205.2.
 
 a) ![task 6.1](https://github.com/AnastasiiaChernova/HW3/blob/master/task%206.1.png)
 b) ![task 6.2](https://github.com/AnastasiiaChernova/HW3/blob/master/task%206.2.png)
+
+График с семинара
+![screen.png](https://github.com/AnastasiiaChernova/HW3/blob/master/screen.png)
